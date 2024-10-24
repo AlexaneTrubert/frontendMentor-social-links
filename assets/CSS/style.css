@@ -108,7 +108,7 @@ span.card-header-title-job {
     padding-inline: 2rem;
 }
 
-button.btn {
+.btn {
     background-color: var(--color-grey-700);
     color: var(--color-white);
     border: none;
